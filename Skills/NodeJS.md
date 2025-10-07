@@ -3,13 +3,13 @@
 - Internals and concepts
   - Strong and weak sides of node.js
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
+  - Nonblocking I/O and blocking code k
+  - Event loop phases h
   - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection h
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Interactive applications (close to real-time) h
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
@@ -26,11 +26,11 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments u
+  - Node.js CLI h
   - Process-based permissions
-  - Graceful shutdown
-  - Clustering
+  - Graceful shutdown h
+  - Clustering k
   - Watch filesystem changes with --watch
 - Internal API
   - Streams API
@@ -63,37 +63,37 @@
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates k
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
-  - SSE
-  - HTTP/3 (QUIC)
-  - Long polling
-  - REST
-  - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - HTTP(S) k
+  - TCP/SSL k
+  - UDP h
+  - TLS h
+  - Websocket k
+  - SSE h
+  - HTTP/3 (QUIC) h
+  - Long polling k
+  - REST u
+  - RPC 
+  - Routing k
+  - DoS k
+  - DDoS k
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - SQL injection
+  - DNS u
+  - SQL injection k
   - noDelay
-  - keep-alive
+  - keep-alive k
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging u
   - Application configuring
-  - Testing
-  - CI/CD
+  - Testing u
+  - CI/CD u
   - Readable
   - Writable
   - Transform
