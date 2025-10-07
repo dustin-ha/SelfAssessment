@@ -3,13 +3,13 @@
 - Internals and concepts
   - Strong and weak sides of node.js
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code k
-  - Event loop phases h
+  - Nonblocking I/O and blocking code: 🎓 known
+  - Event loop phases: 👂 heard
   - Event loop microtasks and macrotasks
-  - Garbage collection h
+  - Garbage collection: 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time) h
+  - Interactive applications (close to real-time): 👂 heard
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
@@ -26,11 +26,11 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments u
-  - Node.js CLI h
+  - Command line arguments: 🖐️ used
+  - Node.js CLI: 👂 heard
   - Process-based permissions
-  - Graceful shutdown h
-  - Clustering k
+  - Graceful shutdown: 👂 heard
+  - Clustering: 🎓 known
   - Watch filesystem changes with --watch
 - Internal API
   - Streams API
@@ -63,37 +63,37 @@
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates k
+  - SSL certificates: 🎓 known
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S) k
-  - TCP/SSL k
-  - UDP h
-  - TLS h
-  - Websocket k
-  - SSE h
-  - HTTP/3 (QUIC) h
-  - Long polling k
-  - REST u
-  - RPC 
-  - Routing k
-  - DoS k
-  - DDoS k
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
+  - UDP: 👂 heard
+  - TLS: 👂 heard
+  - Websocket: 🎓 known
+  - SSE: 👂 heard
+  - HTTP/3 (QUIC): 👂 heard
+  - Long polling: 🎓 known
+  - REST: 🖐️ used
+  - RPC
+  - Routing: 🎓 known
+  - DoS: 🎓 known
+  - DDoS: 🎓 known
   - XSS
   - Path traversal
   - CSRF
-  - DNS u
-  - SQL injection k
+  - DNS: 🖐️ used
+  - SQL injection: 🎓 known
   - noDelay
-  - keep-alive k
+  - keep-alive: 🎓 known
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging u
+  - Logging: 🖐️ used
   - Application configuring
-  - Testing u
-  - CI/CD u
+  - Testing: 🖐️ used
+  - CI/CD: 🖐️ used
   - Readable
   - Writable
   - Transform

@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop k
-  - `try..catch` u
-  - Non-blocking u
-  - Async I/O u
-  - Thread pool u
+  - Event loop: 🎓 known
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 🖐️ used
+  - Async I/O: 🖐️ used
+  - Thread pool: 🖐️ used
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -13,37 +13,37 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions h 
-  - Dead locks k
-  - Live locks k
-  - Concurrent programming u
-  - Parallel programming u
+  - Race conditions: 👂 heard
+  - Dead locks: 🎓 known
+  - Live locks: 🎓 known
+  - Concurrent programming: 🖐️ used
+  - Parallel programming: 🖐️ used
   - Actor Model
-  - Thread e
-  - Process u
+  - Thread: 🙋 explained
+  - Process: 🖐️ used
 - Async contracts
-  - Callbacks u
-  - Callback-last-error-first h
+  - Callbacks: 🖐️ used
+  - Callback-last-error-first: 👂 heard
   - Thenable
-  - Promise k
-  - Async/await u
-  - Future h
-  - Deferred h
+  - Promise: 🎓 known
+  - Async/await: 🖐️ used
+  - Future: 👂 heard
+  - Deferred: 👂 heard
   - Sync generator
   - Async Generator
-  - Async Iterator k
-  - Event k
-  - Coroutine k
+  - Async Iterator: 🎓 known
+  - Event: 🎓 known
+  - Coroutine: 🎓 known
   - Goroutine
   - Signal
-  - Stream u
+  - Stream: 🖐️ used
   - Chain of responsibility
   - Middleware
-  - Locks u
+  - Locks: 🖐️ used
 - Async adapters and utils
-  - callbackify h
-  - promisify h
-  - asyncify u
+  - callbackify: 👂 heard
+  - promisify: 👂 heard
+  - asyncify: 🖐️ used
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
@@ -55,11 +55,11 @@
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore k
+  - Semaphore: 🎓 known
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers h
+  - Timers: 👂 heard
   - `setImmediate`
   - `nextTick`
   - AbortController

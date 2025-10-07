@@ -1,18 +1,18 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns k
+  - Separation of concerns: 🎓 known
   - Inversion of Control
-  - Dependency Injection h
+  - Dependency Injection: 👂 heard
   - GoF Creational
   - GoF Structural
   - GoF Behavioral
   - GRASP
   - SOLID
   - CQS
-  - Modularity k
-  - Subsystems h
-  - Directories h
+  - Modularity: 🎓 known
+  - Subsystems: 👂 heard
+  - Directories: 👂 heard
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
@@ -20,21 +20,21 @@
   - Transport-agnostic
   - Framework-agnostic
   - Code coverage
-  - Cohesion k
-  - Coupling k
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
   - Cyclomatic complexity
   - Reliability
   - Quality
-  - Availability k
-  - Flexibility k
-  - Law of Demeter (LoD) h
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
+  - Law of Demeter (LoD): 👂 heard
 - Application architecture
-  - Isolation between layer k
+  - Isolation between layer: 🎓 known
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC) k
+  - Separation of concerns (SoC): 🎓 known
   - Metaprogramming
   - Inversion of control (IoC)
   - Dependency injection (DI)
@@ -42,21 +42,21 @@
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
-  - Agent h
+  - Agent: 👂 heard
   - Service locator
-  - Message Queue (MQ) h
+  - Message Queue (MQ): 👂 heard
   - CQRS
   - Event sourcing
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML u
+  - UML: 🖐️ used
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems k
+  - Distributed systems: 🎓 known
   - High-intensive computing
-  - Load balancing u
-  - Gateways k
+  - Load balancing: 🖐️ used
+  - Gateways: 🎓 known
   - On-premises
   - IaaS
   - PaaS
@@ -75,7 +75,7 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds h
+  - Clouds: 👂 heard
   - BPMN
   - Low-code
   - No-code
@@ -93,9 +93,9 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices k
+  - Microservices: 🎓 known
   - Process choreography
-  - Service orchestration u
+  - Service orchestration: 🖐️ used
   - Data warehouse
   - Business Intelligence
   - OLAP
