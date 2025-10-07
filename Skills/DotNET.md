@@ -1,56 +1,56 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET
-  - Stateful and stateless services
-  - Asynchronous and synchronous programming
-  - Task-based asynchronous pattern
-  - Garbage collection in .NET
-  - .NET runtime versions and support
-  - I/O-bound, CPU-bound tasks
-  - Real-time applications with SignalR
+  - Strengths and weaknesses of .NET e
+  - Stateful and stateless services k
+  - Asynchronous and synchronous programming u
+  - Task-based asynchronous pattern u
+  - Garbage collection in .NET u 
+  - .NET runtime versions and support k
+  - I/O-bound, CPU-bound tasks k
+  - Real-time applications with SignalR h
 - Modularity and Dependencies
-  - .NET assemblies
-  - NuGet package management
-  - Dependency management in .NET
-  - Dependency Injection in .NET
+  - .NET assemblies u
+  - NuGet package management u
+  - Dependency management in .NET k
+  - Dependency Injection in .NET h
   - Inversion of Control (IoC)
   - IoC containers in .NET
   - Middleware and pipeline configuration
-  - Modular applications
+  - Modular applications k
 - Environment and Tools
-  - Command line interface (CLI) tools
-  - .NET CLI
-  - Windows Services and Linux Daemons
-  - Hosting and Deployment models
+  - Command line interface (CLI) tools u
+  - .NET CLI k
+  - Windows Services and Linux Daemons u
+  - Hosting and Deployment models h
   - IIS and Kestrel web server
-  - Environment variables and configuration
-  - File system I/O operations
+  - Environment variables and configuration u
+  - File system I/O operations k
   - Multithreading with Task Parallel Library (TPL)
-  - Performance monitoring and diagnostics
+  - Performance monitoring and diagnostics k
 - APIs and Framework Features
-  - LINQ
+  - LINQ h
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
-  - Security features (authentication, authorization)
-  - Cryptography and secure data handling
-  - Memory and resource management
-  - Globalization and localization
+  - Security features (authentication, authorization) k
+  - Cryptography and secure data handling u
+  - Memory and resource management k
+  - Globalization and localization h
 - Network and Protocols
-  - HTTP/HTTPS support
-  - WebSockets for real-time communication
-  - TCP/UDP networking
-  - SSL/TLS for secure connections
+  - HTTP/HTTPS support u
+  - WebSockets for real-time communication u
+  - TCP/UDP networking k
+  - SSL/TLS for secure connections k
   - Efficient network communication with `gRPC`
-  - HTTP/2 and HTTP/3 support
-  - Network security (DDoS, XSS, CSRF prevention)
-  - Serialization and deserialization (JSON, XML)
+  - HTTP/2 and HTTP/3 support h
+  - Network security (DDoS, XSS, CSRF prevention) h
+  - Serialization and deserialization (JSON, XML) u
 - Testing and Debugging
-  - Unit testing with frameworks like xUnit, NUnit
-  - Integration testing
-  - Logging and tracing
+  - Unit testing with frameworks like xUnit, NUnit h
+  - Integration testing h
+  - Logging and tracing u
   - Application monitoring and telemetry
-  - Debugging tools and strategies
+  - Debugging tools and strategies k
   - Performance profiling and analysis
 - Data Access and ORM
   - Entity Framework Core
@@ -60,69 +60,69 @@
   - Repository and Unit of Work patterns
   - CRUD operations
 - Error Handling and Debugging
-  - Exception handling in .NET
-  - Custom error classes
-  - Debugging and diagnostic tools
-  - Profiling and performance analysis
-  - Memory leak detection
+  - Exception handling in .NET u
+  - Custom error classes u
+  - Debugging and diagnostic tools u
+  - Profiling and performance analysis h
+  - Memory leak detection k
 - Integration and Extensibility
   - Interoperability with native libraries
   - P/Invoke for calling `C/C++` libraries
-  - COM interop
+  - COM interop h
   - .NET for `WebAssembly`
   - Custom middleware development
 - Cloud and Microservices
   - Integration with cloud platforms (Azure, AWS)
   - Microservices architecture
-  - Containerization with Docker
-  - Kubernetes for orchestration
-  - Serverless computing
+  - Containerization with Docker u
+  - Kubernetes for orchestration k
+  - Serverless computing h
 - C# Development
-  - C# syntax and language fundamentals
-  - Advanced C# features (LINQ, async/await, delegates, events)
-  - Reflection and dynamic programming
-  - Data types and collections
-  - Generics and extension methods
-  - Attributes and annotations
-  - Interoperability with other .NET languages
+  - C# syntax and language fundamentals e
+  - Advanced C# features (LINQ, async/await, delegates, events) u
+  - Reflection and dynamic programming k
+  - Data types and collections u
+  - Generics and extension methods k
+  - Attributes and annotations u
+  - Interoperability with other .NET languages k
 - `F#` Development
   - `F#` syntax and language fundamentals
-  - Immutable data structures
+  - Immutable data structures h
   - Pattern matching and discriminated unions
   - Functional-first design and development
   - Type providers and metaprogramming
-  - Asynchronous and parallel programming
+  - Asynchronous and parallel programming k
   - Using .NET libraries in `F#`
   - Building web applications with F# and Giraffe or Saturn
   - Testing with `FsUnit`
 - VB.NET Development
-  - VB.NET syntax and language fundamentals
-  - Event-driven programming
-  - COM interop and P/Invoke
-  - XML and file handling
-  - Office automation and VSTO
-  - Migration strategies for legacy VB6 applications
+  - VB.NET syntax and language fundamentals k
+  - Event-driven programming h
+  - COM interop and P/Invoke h
+  - XML and file handling h
+  - Office automation and VSTO h
+  - Migration strategies for legacy VB6 applications h
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals
-  - Interoperability between managed (.NET) and unmanaged (native) code
-  - Memory management in mixed environments
-  - `C++/CLI` syntax and usage
-  - Accessing .NET Framework classes in `C++`
+  - C++ syntax and language fundamentals h
+  - Interoperability between managed (.NET) and unmanaged (native) code h
+  - Memory management in mixed environments h
+  - `C++/CLI` syntax and usage h
+  - Accessing .NET Framework classes in `C++` h
   - Writing performance-critical modules
   - Interfacing with native libraries and APIs
   - Developing custom .NET libraries in `C++`
   - Managing resource disposal and finalization
   - Creating and consuming DLLs (Dynamic Link Libraries)
-  - Working with Windows API
+  - Working with Windows API k
   - Migration of legacy `C++` code to .NET
   - Enhancing existing .NET applications with `C++/CLI`
 - Mobile development
-  - .NET MAUI / Xamarin
+  - .NET MAUI / Xamarin h
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity
+  - Unity k
 - Web development
-  - ASP.NET Core
+  - ASP.NET Core u
   - Blazor
   - Razor Syntax
-  - RESTful API development
+  - RESTful API development h

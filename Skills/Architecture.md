@@ -1,18 +1,18 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns
+  - Separation of concerns k
   - Inversion of Control
-  - Dependency Injection
+  - Dependency Injection h
   - GoF Creational
   - GoF Structural
   - GoF Behavioral
   - GRASP
   - SOLID
   - CQS
-  - Modularity
-  - Subsystems
-  - Directories
+  - Modularity k
+  - Subsystems h
+  - Directories h
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
@@ -20,21 +20,21 @@
   - Transport-agnostic
   - Framework-agnostic
   - Code coverage
-  - Cohesion
-  - Coupling
+  - Cohesion k
+  - Coupling k
   - Cyclomatic complexity
   - Reliability
   - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Availability k
+  - Flexibility k
+  - Law of Demeter (LoD) h
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer k
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - Separation of concerns (SoC) k
   - Metaprogramming
   - Inversion of control (IoC)
   - Dependency injection (DI)
@@ -42,21 +42,21 @@
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
-  - Agent
+  - Agent h
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ) h
   - CQRS
   - Event sourcing
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML u
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems
+  - Distributed systems k
   - High-intensive computing
-  - Load balancing
-  - Gateways
+  - Load balancing u
+  - Gateways k
   - On-premises
   - IaaS
   - PaaS
@@ -75,7 +75,7 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds h
   - BPMN
   - Low-code
   - No-code
@@ -93,9 +93,9 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices k
   - Process choreography
-  - Service orchestration
+  - Service orchestration u
   - Data warehouse
   - Business Intelligence
   - OLAP
